@@ -1,0 +1,6 @@
+{
+  "name": "KNIPSS Sultanpur - Nostalgic Digital Campus",
+  "description": "An interactive digital memory and time capsule of Kamla Nehru Institute of Physical and Social Sciences, Sultanpur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
